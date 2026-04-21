@@ -5,7 +5,7 @@
 
 ## The Story
 
-I work across tech consulting and product-based company in Singapore and Canada that shaped my problem solving approaches from different perspectives, created a highly adaptibility and results-oriented mind-set.
+I work across tech consulting and product-based company in Singapore and Canada that shaped my problem solving approach from different angles, created a highly adaptibility and results-oriented mind-set.
 
 **What I do**: I turn raw data into clear, actionable insights for business decision‑making. 
 
