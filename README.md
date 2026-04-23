@@ -1,5 +1,5 @@
 # Anh Tran
-**Data Analyst** | Tech & Manufacturing | San Diego, USA | [Linkedin](www.linkedin.com/in/annehtran) | [Portfolio](file:///C:/Users/annet/Desktop/Github/anhtran-portfolio/Portfolio%20Site/index.html)
+**Data Analyst** | Tech & Manufacturing | San Diego, USA | [Linkedin](https://www.linkedin.com/in/annehtran/) | [Portfolio](file:///C:/Users/annet/Desktop/Github/anhtran-portfolio/Portfolio%20Site/index.html)
 
 ---
 
