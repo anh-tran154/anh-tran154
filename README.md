@@ -19,18 +19,14 @@ Fully documented, GitHub analytic projects built to hiring standards:
 **Sales Performance** | Online Retail<br>
 20 DAX measures, 5 report pages, star schema, KPI glossary, README
 
-All delivered to: GitHub repo · comprehensive documentation ·
+Output: GitHub repo · comprehensive documentation · reports
 
 - ### Python Project
 **Exploring Market Trends** | Airbnb<br>
 Data importing and cleaning, visualizing charts, findings and recommendation
 
-
-
 - ### SQL Project | **In progress
 Data importing and cleaning, visualizing charts, findings and recommendation
-
-
 
 ## Toolkit
 
