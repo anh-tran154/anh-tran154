@@ -17,13 +17,9 @@ Fully documented, GitHub analytic projects built to hiring standards:
 - ### Power BI Portfolio Projects
 
 **Sales Performance** | Online Retail<br>
-10 DAX measures, 5 report pages, star schema, KPI glossary, README
+20 DAX measures, 5 report pages, star schema, KPI glossary, README
 
-**Customer Churn Analytics** | AirBnb<br>
-10 DAX measures, 5 report pages, revenue at risk, data dictionary
-
-All delivered to: GitHub repo · comprehensive documentation · architectural diagrams
-
+All delivered to: GitHub repo · comprehensive documentation ·
 
 - ### Python Project
 **Exploring Market Trends** | Airbnb<br>
