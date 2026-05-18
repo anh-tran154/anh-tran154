@@ -32,7 +32,7 @@ Data importing and cleaning, visualizing charts, findings and recommendation
 
 - **Languages:** Python · SQL · DAX 
 - **Data Processing:** Pandas · Numby 
-- **BI & Dashboarding:** Power BI (semantic models, DAX, story-telling) 
+- **BI & Dashboarding:** Power BI (semantic models, DAX, Power Query/M)
 
 ---
 
